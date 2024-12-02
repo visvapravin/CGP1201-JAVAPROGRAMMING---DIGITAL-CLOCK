@@ -30,7 +30,7 @@ A modern, fully-featured digital clock application built using Java Swing. It pr
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/creative-digital-clock.git
+   git clone https://github.com/visvapravin/creative-digital-clock.git
 Open the project in your preferred IDE.
 Run the DigitalClock.java file.
 Usage
